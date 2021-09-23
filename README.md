@@ -3,9 +3,10 @@
 following up on the presentation of Sean Hallgren at the Simons Institute
 https://simons.berkeley.edu/events/efficient-quantum-algorithm-lattice-problems-achieving-subexponential-approximation-factor
 
-Wessel and myself wrote a note on what the state of the art 
-has to say on those specific BDD instances studied by Lior 
-and Sean.
+Wessel and myself wrote a note (available on this repository) 
+on what the state of the art has to say on those specific 
+BDD instances studied by Lior and Sean.
+https://github.com/lducas/BDD-note/blob/main/note.pdf
 
 The first remark is that they are already considered easy in
 the average-case for standard classical lattice reduction 
