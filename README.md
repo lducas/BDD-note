@@ -1,3 +1,16 @@
+following up on the presentation of Sean Hallgren at the Simons Institute
+https://simons.berkeley.edu/events/efficient-quantum-algorithm-lattice-problems-achieving-subexponential-approximation-factor
+
+Wessel and myself wrote a note on what the state of the art 
+has to say on those specific BDD instances studied by Lior 
+and Sean.
+
+The first remark is that they are already considered easy in
+the average-case for standard classical lattice reduction 
+algorithms. With due diligence, we can in fact prove this is 
+also true in the worst-case. This requires no new idea. The
+algorithm is just straight up LLL+Babai.
+
 # FAQ
 
 ** Does the note contain a new result on lattice problems ?
