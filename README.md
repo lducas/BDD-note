@@ -36,4 +36,4 @@ In the mean time, the best guess is that it would behaves as in
 the random-case (LWE): BDD in deterministic poly-time for this
 class of lattices when parameters satisfies:
 
-    k * log(q) / log^2(α) > cste .
+    k * log(q) / log^2(α) < cste .
